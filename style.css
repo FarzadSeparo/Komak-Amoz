@@ -1,0 +1,168 @@
+/* .top-Name {
+    height: 36.200px;
+    width: 150px;
+    overflow: hidden;
+    padding-top: 5px;
+    font-size: 16px;
+    font-weight: 400;
+    background-color: #e50914;
+  }
+
+  h1, h2, h3, h4, h5, h6, input, textarea {
+    font-family: IRANSans !important;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.ltr {
+    direction: ltr;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-small {
+    font-size: 0.8em;
+}
+
+.text-xsmall {
+    font-size: 0.6em;
+}
+
+.text-large {
+    font-size: 1.2em;
+}
+
+.text-xlarge {
+    font-size: 1.4em;
+}
+
+.text-underline {
+    text-decoration: underline;
+}
+
+.text-ultralight {
+    font-weight: 200;
+}
+
+.text-light {
+    font-weight: 300;
+}
+
+.text-regular {
+    font-weight: normal;
+}
+
+.text-medium {
+    font-weight: 500;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+ */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+html{
+    width: 100%;
+    height: 100%;
+}
+
+body{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    background-color: rgb(180, 180, 180);
+}
+
+.main-div{
+    width: 100%;
+    max-width: 800px;
+    background-color: rgb(180, 180, 180);
+}
+
+.profile-container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 20px;
+    justify-content: flex-start;
+    background-color: transparent;
+    border-bottom: 1px solid gray;
+}
+
+.profile-image{
+    width: 100px;
+    aspect-ratio: 1/1;
+    margin-bottom: 10px;
+}
+
+.username{
+    display: flex;
+    margin-right: 10px;
+    align-items: flex-end;
+    font-weight: bolder;
+}
+
+.menu-container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 20px;
+    justify-content: space-around;
+}
+
+.menu-item-container{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    margin: 40px 0;
+}
+
+.menu-item{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+
+.menu-item:hover  .menu-image{
+    border-radius: 20px;
+}
+
+.menu-image{
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: white;
+    border: 2px solid black;
+    margin-bottom: 10px;
+    transition: 300ms;
+}

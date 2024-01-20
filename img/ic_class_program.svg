@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="92px" height="115px" viewBox="0 0 92 115" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>schedule</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="لاگین" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="صفحه-اول" transform="translate(-700.000000, -1795.000000)" fill-rule="nonzero">
+            <g id="schedule" transform="translate(746.000000, 1852.500000) scale(-1, 1) translate(-746.000000, -1852.500000) translate(700.000000, 1795.000000)">
+                <polygon id="XMLID_517_" fill="#DEDDE0" points="25.875 70.4375 25.875 61.8125 48.875 61.8125 48.875 53.1875 30.1875 53.1875 30.1875 44.5625 48.875 44.5625 48.875 0 17.25 0 17.25 115 48.875 115 48.875 70.4375"></polygon>
+                <polygon id="XMLID_518_" fill="#CDCDD0" points="80.5 57.5 80.5 28.75 80.5 0 48.875 0 48.875 44.5625 67.5625 44.5625 67.5625 53.1875 48.875 53.1875 48.875 61.8125 71.875 61.8125 71.875 70.4375 48.875 70.4375 48.875 115 80.5 115 80.5 86.25"></polygon>
+                <polygon id="XMLID_519_" fill="#ACABB1" points="5.75 0 5.75 10.0625 11.5 10.0625 11.5 18.6875 5.75 18.6875 5.75 38.8125 11.5 38.8125 11.5 47.4375 5.75 47.4375 5.75 67.5625 11.5 67.5625 11.5 76.1875 5.75 76.1875 5.75 96.3125 11.5 96.3125 11.5 104.9375 5.75 104.9375 5.75 115 17.25 115 17.25 0"></polygon>
+                <rect id="XMLID_520_" fill="#A8D1FF" x="80.5" y="0" width="11.5" height="28.75"></rect>
+                <rect id="XMLID_521_" fill="#79AFEE" x="80.5" y="28.75" width="11.5" height="28.75"></rect>
+                <rect id="XMLID_522_" fill="#4486D2" x="80.5" y="57.5" width="11.5" height="28.75"></rect>
+                <rect id="XMLID_523_" fill="#0F4F99" x="80.5" y="86.25" width="11.5" height="28.75"></rect>
+                <polygon id="XMLID_524_" fill="#565659" points="11.5 10.0625 5.75 10.0625 0 10.0625 0 18.6875 5.75 18.6875 11.5 18.6875"></polygon>
+                <polygon id="XMLID_525_" fill="#565659" points="11.5 96.3125 5.75 96.3125 0 96.3125 0 104.9375 5.75 104.9375 11.5 104.9375"></polygon>
+                <polygon id="XMLID_526_" fill="#565659" points="11.5 67.5625 5.75 67.5625 0 67.5625 0 76.1875 5.75 76.1875 11.5 76.1875"></polygon>
+                <polygon id="XMLID_527_" fill="#565659" points="11.5 38.8125 5.75 38.8125 0 38.8125 0 47.4375 5.75 47.4375 11.5 47.4375"></polygon>
+                <polygon id="XMLID_530_" fill="#FFFFFF" points="30.1875 53.1875 48.875 53.1875 67.5625 53.1875 67.5625 44.5625 48.875 44.5625 30.1875 44.5625"></polygon>
+                <polygon id="XMLID_531_" fill="#FFFFFF" points="25.875 70.4375 48.875 70.4375 71.875 70.4375 71.875 61.8125 48.875 61.8125 25.875 61.8125"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
