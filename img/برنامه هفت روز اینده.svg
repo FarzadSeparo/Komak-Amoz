@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="66px" height="68px" viewBox="0 0 66 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>weekly-calendar</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="لاگین" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="صفحه-اول" transform="translate(-337.000000, -137.000000)" fill-rule="nonzero">
+            <g id="weekly-calendar" transform="translate(337.000000, 137.000000)">
+                <rect id="Rectangle-path" fill="#E0F2FF" x="0.40767351" y="6.39529494" width="65.18185" height="61.3863703"></rect>
+                <rect id="Rectangle-path" fill="#E0F2FF" x="32.8669867" y="6.39529494" width="32.7253398" height="61.3863703"></rect>
+                <rect id="Rectangle-path" fill="#2B5C70" x="0.40767351" y="6.39529494" width="65.18185" height="14.7328608"></rect>
+                <rect id="Rectangle-path" fill="#1E495F" x="32.8669867" y="6.39529494" width="32.7253398" height="14.7328608"></rect>
+                <g id="Group" transform="translate(7.263717, 28.800913)" fill="#CADBE6">
+                    <rect id="Rectangle-path" x="0.19162064" y="0.0436341292" width="7.75069813" height="7.71639133"></rect>
+                    <rect id="Rectangle-path" x="0.19162064" y="11.7944066" width="7.75069813" height="7.71639133"></rect>
+                    <rect id="Rectangle-path" x="0.19162064" y="23.5454328" width="7.75069813" height="7.71639133"></rect>
+                    <rect id="Rectangle-path" x="14.4604783" y="0.0436341292" width="7.75069813" height="7.71639133"></rect>
+                    <rect id="Rectangle-path" x="14.4604783" y="11.7944066" width="7.75069813" height="7.71639133"></rect>
+                    <rect id="Rectangle-path" x="14.4604783" y="23.5454328" width="7.75069813" height="7.71639133"></rect>
+                </g>
+                <g id="Group" transform="translate(35.802961, 28.800913)" fill="#B1C9DA">
+                    <rect id="Rectangle-path" x="0.192385084" y="0.0436341292" width="7.75069813" height="7.71639133"></rect>
+                    <rect id="Rectangle-path" x="0.192385084" y="11.7944066" width="7.75069813" height="7.71639133"></rect>
+                    <rect id="Rectangle-path" x="0.192385084" y="23.5454328" width="7.75069813" height="7.71639133"></rect>
+                </g>
+                <g id="Group" transform="translate(50.072584, 28.800913)" fill="#FF8468">
+                    <rect id="Rectangle-path" x="0.191365825" y="0.0436341292" width="7.75069813" height="7.71639133"></rect>
+                    <rect id="Rectangle-path" x="0.191365825" y="11.7944066" width="7.75069813" height="7.71639133"></rect>
+                    <rect id="Rectangle-path" x="0.191365825" y="23.5454328" width="7.75069813" height="7.71639133"></rect>
+                </g>
+                <rect id="Rectangle-path" fill="#1E495F" x="6.92557822" y="0.0810305478" width="5.28511128" height="12.278441"></rect>
+                <rect id="Rectangle-path" fill="#1D384E" x="53.7865075" y="0.0810305478" width="5.28511128" height="12.278441"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
